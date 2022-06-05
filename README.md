@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Piotr-Grzybowski)](https://github.com/LordDashMe/github-contribution-stats/)
 
-https://github-readme-medium-recent-article.vercel.app/medium/<pgrzybowski.dev>/<1>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pgrzybowski.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pgrzybowski.dev/0" alt="Recent Article 0"> 
