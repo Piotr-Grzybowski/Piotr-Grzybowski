@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Check out my most recent article on medium.com
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pgrzybowski.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pgrzybowski.dev/0" alt="Recent Article 0">  
+
 <!--
 **Piotr-Grzybowski/Piotr-Grzybowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+  
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Piotr-Grzybowski)](https://github.com/LordDashMe/github-contribution-stats/)
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pgrzybowski.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pgrzybowski.dev/0" alt="Recent Article 0"> 
+  
+-->
